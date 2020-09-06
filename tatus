@@ -1,0 +1,86 @@
+[33mcommit e1da640b2f9b7b5fe0deb4f72ef3e39a7aa1323b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Moumita <moumitajash.chatterjee@delarue.com>
+Date:   Sun Sep 6 08:03:54 2020 +0530
+
+    to test restore
+
+[33mcommit f90f162f2f728b8467bf9ad43b47acc1481a4116[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Moumita <moumitajash.chatterjee@delarue.com>
+Date:   Sun Sep 6 07:30:58 2020 +0530
+
+    newFile chanaages commited
+
+[33mcommit 26c7d20de3e7e8444f4c3e63696acec5cf1ef978[m
+Author: Moumita <moumitajash.chatterjee@delarue.com>
+Date:   Sun Sep 6 07:26:29 2020 +0530
+
+    more ipsum words
+
+[33mcommit 4b2ada5ba82ed9e735f17357b178ee4dbd3a0578[m
+Author: Moumita <moumitajash.chatterjee@delarue.com>
+Date:   Sun Sep 6 07:11:34 2020 +0530
+
+    adding mote ipsum text
+
+[33mcommit 72944a65a398189f4a714781efec0ff6ee8bfc40[m
+Author: Moumita Chatterjee <immou.ur@gmail.com>
+Date:   Sun Sep 6 06:57:10 2020 +0530
+
+    testing gitLog
+
+[33mcommit 6ce6d660cad8288ae1df1c3507d7e3b685fcc8e7[m
+Author: Moumita <moumitajash.chatterjee@delarue.com>
+Date:   Sun Sep 6 06:52:58 2020 +0530
+
+    nrwfile to be commited
+
+[33mcommit dab7fcfdc79482fb973f4df8b1ff6361366f7d71[m
+Author: Moumita Chatterjee <immou.ur@gmail.com>
+Date:   Sat Sep 5 21:48:04 2020 +0530
+
+    delete testPullFetch
+
+[33mcommit 7447ff23f22fbea51652c559f698da3b8e108361[m
+Author: Moumita Chatterjee <immou.ur@gmail.com>
+Date:   Sat Sep 5 21:30:22 2020 +0530
+
+    commit test pull fetch
+
+[33mcommit 45b8115b759dd2c07ed1e9f9e1db7d8a15d6a7a6[m
+Author: Moumita Chatterjee <immou.ur@gmail.com>
+Date:   Sat Sep 5 21:13:47 2020 +0530
+
+    delete
+
+[33mcommit 5fb46e54f47fd09fddcfd490450c0647f3b0309f[m
+Author: Moumita Chatterjee <immou.ur@gmail.com>
+Date:   Sat Sep 5 21:05:08 2020 +0530
+
+    Create testGitpull
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
